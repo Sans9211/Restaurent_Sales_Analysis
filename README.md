@@ -1,6 +1,6 @@
 # Restaurant Sales Analysis 🍽️📊
 ## Overview
-Welcome to the Restaurant Sales Analysis project! This Power BI dashboard analyzes Kaggle data from Bangalore's vibrant restaurant scene. Perfect for entrepreneurs eyeing the city's culinary landscape.
+Welcome to the Restaurant Sales Analysis project! This Power BI dashboard analyzes data from Bangalore's vibrant restaurant scene. Perfect for entrepreneurs eyeing the city's culinary landscape.
 ## DashBoard
 ![RES1](https://github.com/Sans9211/Restaurent_Sales_Analysis/assets/104644783/9839c3c0-c2c3-48f2-9824-de85289e8f15)
 ![RES2](https://github.com/Sans9211/Restaurent_Sales_Analysis/assets/104644783/63ea0d2d-11c3-4d8b-ac80-a672e84c097d)
